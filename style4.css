@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,500;1,400&display=swap');
+
+#navigasi {
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    position:relative;
+    line-height:30px;
+    margin:0;
+    padding:0;
+    list-style-type:none;
+    list-style-position:outside;
+    
+}
+
+#navigasi a {
+    display:block;
+    padding:10px;
+    background-color:#eeebeb;
+    color:rgb(0, 0, 0);
+    text-decoration:none;
+    border-radius: 5px;
+   }
+
+#navigasi a:hover {
+background-color:#e6d91c;
+ color:#fff;
+}
+
+.header{
+    background-color: #e6d91c;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 40px;
+}
+
+img {
+    margin-top: -30px;
+    height: 100px;
+}
+
+.tulisan {
+    margin-top: -70px;
+    margin-left: 100px;
+    color: white;
+    font-family: 'poppins' sans-serif;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+}
+
+.tambahdata {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.nama{
+    width: 50%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+    
+}
+
+.alamat{
+    width: 50%;
+    padding: 10px;
+    margin-top: 5PX;
+    border-radius: 5px;
+}
+
+.btn{
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #e6d91c;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: #e6d91c;
+    padding: 3px 5px;
+    
+}
+
+.btn:hover{
+    background-color: gray;
+    color:white;
+}
+
+.umur{
+    width: 50px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+
+select{
+    border-radius: 5px;
+    height: 20px;
+    width: 100px;
+}
+
+

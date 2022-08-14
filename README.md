@@ -9,3 +9,5 @@ Website ini memiliki fitur
 2. Search
 3. Login 
 
+Itulah fitur-fitur yang ada pada aplikasi ini
+

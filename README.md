@@ -9,6 +9,8 @@ Website ini memiliki fitur
 2. Search
 3. Login 
 
+<h1>Teknologi</h1>
+
 <ul>
 <li>HTML</li>
 <li>Javascript</li>
